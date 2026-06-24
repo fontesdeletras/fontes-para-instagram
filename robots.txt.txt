@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR_USERNAME.github.io/Letras-Diferentes/sitemap.xml
+Sitemap: https://fontes-para-instagram.vercel.app/sitemap.xml
